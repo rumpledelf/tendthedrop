@@ -36,6 +36,7 @@ The first step will be for us to have a look at your Drupal site and evaluate it
 
 <a name="hosting"></a>
 <img src="/hosting.png" class="howitworksicon">
+
 <h2 class="howitworkstitle">Hosting</h2>
 
 Drupal sites can consume large amounts of hosting resources, which can cause performance issues on hosting infrastructure that is not a good match for the resource needs of your site.
@@ -46,12 +47,14 @@ More formal spiel from partner host goes here.
 
 <a name="monitoring"></a>
 <img src="/monitoring.png" class="howitworksicon">
+
 <h2 class="howitworkstitle">Monitoring</h2>
 
 Also needs a formal spiel. Check for bottlenecks, keep your site with highest uptime possible.
 
 <a name="backups"></a>
 <img src="/database.png" class="howitworksicon">
+
 <h2 class="howitworkstitle">Backups</h2>
 
 Many sites are deployed with no backup schedule in place. This is generally not a problem until something bad happens, from a new content editor accidentally deleting all your content through to hardware failures on your host.
@@ -60,6 +63,7 @@ Backups are insurance against disasters. You hope you never need them, but in th
 
 <a name="marketing"></a>
 <img src="/marketing.png" class="howitworksicon">
+
 <h2 class="howitworkstitle">Digital marketing</h2>
 
 Need more visitors? Need higher visibility? Want a higher conversion rate on your existing visitors? We can tailor a digital marketing strategy for your Drupal site.
