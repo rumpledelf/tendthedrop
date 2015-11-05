@@ -21,16 +21,16 @@ permalink: /howitworks/
 <a name="start"></a>
 <h2>Getting started</h2>
 
-The first step will be for us to have a look at your Drupal site and evaluate its health. The results of this initial site assessment will effect the steps we take to get set up. In general, the steps we will take are:
+The first step will be for us to have a look at your Drupal site and evaluate its current status. The results of this initial site assessment will effect the steps we take to get set up. In general, the steps we will take are:
 
 <ol>
-	<li>Site health check</li>
+	<li>Initial site assessment</li>
 	<li>Move your code into version control if it is not already</li>
 	<li>Set up an issue tracking system for you, or utilise your existing system</li>
 	<li>Issues flagged in the initial site health check will be added into the issue queue</li>
 	<li>Move your site to a new host if required</li>
 	<li>Set up additional services as required</li>
-	<li>Apply any security updates flagged by the site health check as a priority</li>
+	<li>Apply any security updates flagged by the initial site assessment as a priority</li>
 	<li>Move on with maintaining your site!</li>
 </ol>
 
