@@ -11,6 +11,6 @@ email: info@tendthedrop.com
 description: > # this means to ignore newlines until "baseurl:"
   Fixed price maintenance for Drupal websites
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://drop.armadillosandwich.com" # the base hostname & protocol for your site
+url: "http://tendthedrop.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
