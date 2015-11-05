@@ -19,6 +19,7 @@ permalink: /howitworks/
 
 
 <a name="start"></a>
+
 <h2 class="howitworkstitle">Getting started</h2>
 
 The first step will be for us to have a look at your Drupal site and evaluate its current status. The results of this initial site assessment will effect the steps we take to get set up. In general, the steps we will take are:
@@ -69,6 +70,7 @@ Backups are insurance against disasters. You hope you never need them, but in th
 Need more visitors? Need higher visibility? Want a higher conversion rate on your existing visitors? We can tailor a digital marketing strategy for your Drupal site.
 
 <a name="billing"></a>
+
 <h2 class="howitworkstitle">Billing</h2>
 
 As this is a new service, we are currently only offering payment intervals of quarterly, six monthly and annually, invoiced and paid in advance. Depending on the demand, we may offer automatic monthly payments in the future.
