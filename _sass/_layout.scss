@@ -291,6 +291,26 @@
   }
 }
 
+.howitworksicon{
+  float: left;
+  width: 80px;
+  height: 80px;
+  @include media-query($on-mobile) {
+    width: 120px;
+    height: auto;
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+.howitworkstitle{
+  line-height: 80px;
+  @include media-query($on-mobile) {
+    line-height: 1.1em;
+    text-align: center;
+  }
+}
+
 .spaced{
   li{
     margin-top: $spacing-unit/4;

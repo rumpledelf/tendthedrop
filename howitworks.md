@@ -13,13 +13,13 @@ permalink: /howitworks/
 	<li><a href="#billing">Billing</a></li>
 </ul>
 
-{{site.title}} offers an ongoing Drupal site maintenance service, complemented by optional site improvement services. Our service is best suited to large, complex Drupal sites where there are not enough in-house resources available to effectively perform maintenance.
+{{site.title}} offers an ongoing Drupal site maintenance service, complemented by optional site improvement services. Our service is best suited to large, complex Drupal sites where there are not enough in-house resources available to effectively perform maintenance. We are not a one-size-fits-all service, and we can organise a plan that fits your needs.
 
 <div class="ctawrapper"><a class="ctabutton" href="/contact">Contact us for a quote</a></div>
 
 
 <a name="start"></a>
-<h2>Getting started</h2>
+<h2 class="howitworkstitle">Getting started</h2>
 
 The first step will be for us to have a look at your Drupal site and evaluate its current status. The results of this initial site assessment will effect the steps we take to get set up. In general, the steps we will take are:
 
@@ -35,7 +35,8 @@ The first step will be for us to have a look at your Drupal site and evaluate it
 </ol>
 
 <a name="hosting"></a>
-<h2>Hosting</h2>
+<img src="/hosting.png" class="howitworksicon">
+<h2 class="howitworkstitle">Hosting</h2>
 
 Drupal sites can consume large amounts of hosting resources, which can cause performance issues on hosting infrastructure that is not a good match for the resource needs of your site.
 
@@ -44,24 +45,27 @@ We can evaluate your current hosting situation and if required, we can arrange f
 More formal spiel from partner host goes here.
 
 <a name="monitoring"></a>
-<h2>Monitoring</h2>
+<img src="/monitoring.png" class="howitworksicon">
+<h2 class="howitworkstitle">Monitoring</h2>
 
 Also needs a formal spiel. Check for bottlenecks, keep your site with highest uptime possible.
 
 <a name="backups"></a>
-<h2>Backups</h2>
+<img src="/database.png" class="howitworksicon">
+<h2 class="howitworkstitle">Backups</h2>
 
 Many sites are deployed with no backup schedule in place. This is generally not a problem until something bad happens, from a new content editor accidentally deleting all your content through to hardware failures on your host.
 
 Backups are insurance against disasters. You hope you never need them, but in the event you do need them, you will regret not having a solid backup strategy in place.
 
 <a name="marketing"></a>
-<h2>Digital marketing</h2>
+<img src="/marketing.png" class="howitworksicon">
+<h2 class="howitworkstitle">Digital marketing</h2>
 
 Need more visitors? Need higher visibility? Want a higher conversion rate on your existing visitors? We can tailor a digital marketing strategy for your Drupal site.
 
 <a name="billing"></a>
-<h2>Billing</h2>
+<h2 class="howitworkstitle">Billing</h2>
 
 As this is a new service, we are currently only offering payment intervals of quarterly, six monthly and annually, invoiced and paid in advance. Depending on the demand, we may offer automatic monthly payments in the future.
 
