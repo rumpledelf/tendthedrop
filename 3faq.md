@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 permalink: /faq/
+weight: 3
 ---
 
 <h2>Frequently Asked Questions</h2>

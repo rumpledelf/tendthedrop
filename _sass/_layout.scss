@@ -353,7 +353,7 @@
   margin-bottom: $spacing-unit;
   padding: $spacing-unit 0;
   text-align: center;
-  background: transparent url(../yellowfield.jpg) center center no-repeat;
+  background: #efefef url(../yellowfield.jpg) center center no-repeat;
   h1{
     font-size: 3.2em;
     color: white;
@@ -399,4 +399,17 @@
       }
     }
   }
+}
+input[type="submit"]{
+  margin: 10px 0;
+}
+input[type="text"],
+input[type="email"],
+textarea{
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  width: 100%;
+  font-size: 1em;
+  color: #666;
 }
