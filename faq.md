@@ -16,7 +16,7 @@ Loosely, yes. You'll agree in advance to some number of hours per month. You can
 
 <h3>What is the difference between maintenance and a large feature?</h3>
 
-The length of time it takes. Maintenance and small feature requests can be completed in a timeframe measured in hours. Larger features have a timeframe measured in days or weeks. We can handle these on a case by case basis if they are not too large, but they will be not included in your maintenance plan. If needed, we can refer you to an external Drupal development shop for new features that require a large amount of time and resources.
+The length of time it takes. Maintenance and small feature requests can be completed in a timeframe measured in hours. Larger features have a timeframe measured in days, weeks or longer. We can handle these on a case by case basis if they are not too large, but they will be not included in your maintenance plan. If needed, we can refer you to an external Drupal development shop for new features that require a large amount of time and resources.
 
 <h3>So, you're running an orphanage there?</h3>
 
