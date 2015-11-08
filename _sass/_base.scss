@@ -111,13 +111,15 @@ a.site-title{
     text-decoration: none;
   }
 }
-
+input[type="submit"],
 a.ctabutton{
   color: white;
   background-color: $brand-color;
   text-transform: uppercase;
   display: inline-block;
   text-align: center;
+  font-size: 1em;
+  border: none;
   padding: $spacing-unit/2;
   margin: $spacing-unit auto;
   @include border-radius(5px);

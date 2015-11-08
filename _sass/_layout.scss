@@ -353,7 +353,7 @@
   margin-bottom: $spacing-unit;
   padding: $spacing-unit 0;
   text-align: center;
-  background: transparent url(../yellowfield.jpg) center center no-repeat;
+  background: #efefef url(../yellowfield.jpg) center center no-repeat;
   h1{
     font-size: 3.2em;
     color: white;
@@ -369,4 +369,47 @@
 .overlay{
   background-color: rgba(0,0,0,0.2);
   padding: $spacing-unit 0;
+}
+
+#partners{
+  ul{
+    margin: 0;
+    overflow: hidden;
+    li{
+      list-style-type: none;
+      list-style-image: none;
+      position: relative;
+      text-align: center;
+      float: left;
+      //background-color: #efefef;
+      border-radius: 5px;
+      margin: 0 1%;
+      width: 23%;
+      @include media-query($on-mobile) {
+        float: none;
+        width: 90%;
+        margin: 5%;
+      }
+      &.hosting{
+        //background-color: #0fa1e0;
+        padding-bottom: 10px;
+      }
+      img{
+        margin: 0 5px;
+      }
+    }
+  }
+}
+input[type="submit"]{
+  margin: 10px 0;
+}
+input[type="text"],
+input[type="email"],
+textarea{
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  width: 100%;
+  font-size: 1em;
+  color: #666;
 }

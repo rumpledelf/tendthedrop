@@ -42,9 +42,9 @@ The first step will be for us to have a look at your Drupal site and evaluate it
 
 Drupal sites can consume large amounts of hosting resources, which can cause performance issues on hosting infrastructure that is not a good match for the resource needs of your site.
 
-We can evaluate your current hosting situation and if required, we can arrange for your site to be moved to reliable, managed hosting.
+We can evaluate your current hosting situation and if required, we can arrange for your site to be moved to reliable, managed hosting at our partner host, <a href="http://www.anchor.com.au">Anchor Systems</a>. Founded in 2000, Anchor is a global provider of managed hosting services for business critical websites and web applications.
 
-More formal spiel from partner host goes here.
+Anchor specialises in creating innovative and scalable hosting solutions for their customers, bringing deep DevOps & Systems Administration expertise that is unique in the hosting industry. With AWS management and OpenStack cloud infrastructure spanning three data centres in Australia and the USA, they can build a solution to meet your needs.
 
 <a name="monitoring"></a>
 <img src="/monitoring.png" class="howitworksicon">
