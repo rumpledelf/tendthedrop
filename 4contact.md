@@ -11,11 +11,14 @@ If you'd like to get a quote to maintain a Drupal site, or just have some more q
     <input type="text" name="name">
     <label>Your email address</label>
     <input type="email" name="_replyto">
+    <label>Your phone number</label>
+    <input type="text" name="phone">
     <label>Your URL (optional)</label>
     <input type="text" name="website">
     <label>Your message</label>
     <textarea name="message" rows="5"></textarea>
     <input type="hidden" name="_subject" value="Tend the Drop contact submission" />
+    <input type="hidden" name="_next" value="//tendthedrop.com/thanks" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>

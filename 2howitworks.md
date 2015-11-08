@@ -51,7 +51,9 @@ Anchor specialises in creating innovative and scalable hosting solutions for the
 
 <h2 class="howitworkstitle">Monitoring</h2>
 
-Also needs a formal spiel. Check for bottlenecks, keep your site with highest uptime possible.
+Drupal sites can sometimes run slowly, especially if there is increase in visitors. Sometimes they can have intermittent downtime that is not caused by your host and will not be covered in their uptime guarantee.
+
+Adding monitoring to your site will give extra information about how your site performs and allows us to gradually improve it, as well as alerting us to any downtime your site experiences.
 
 <a name="backups"></a>
 <img src="/database.png" class="howitworksicon">
