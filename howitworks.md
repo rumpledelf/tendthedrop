@@ -13,7 +13,7 @@ permalink: /howitworks/
 	<li><a href="#billing">Billing</a></li>
 </ul>
 
-{{site.title}} offers an ongoing Drupal site maintenance service, complemented by optional site improvement services. Our service is best suited to large, complex Drupal sites where there are not enough in-house resources available to effectively perform maintenance. We are not a one-size-fits-all service, and we can organise a plan that fits your needs.
+{{site.title}} offers an ongoing Drupal site maintenance service, complemented by optional site improvement services. Our service is best suited to large, complex Drupal sites where there are not enough in-house resources available to effectively perform maintenance. We are not a one-size-fits-all service, and we can organise a plan that suits your needs.
 
 <div class="ctawrapper"><a class="ctabutton" href="/contact">Contact us for a quote</a></div>
 
