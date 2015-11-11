@@ -35,6 +35,8 @@ The first step will be for us to have a look at your Drupal site and evaluate it
 	<li>Move on with maintaining your site!</li>
 </ol>
 
+The additional services we offer are listed below:
+
 <a name="hosting"></a>
 <img src="/hosting.png" class="howitworksicon">
 
@@ -53,7 +55,9 @@ Anchor specialises in creating innovative and scalable hosting solutions for the
 
 Drupal sites can sometimes run slowly, especially if there is increase in visitors. Sometimes they can have intermittent downtime that is not caused by your host and will not be covered in their uptime guarantee.
 
-Adding monitoring to your site will give extra information about how your site performs and allows us to gradually improve it, as well as alerting us to any downtime your site experiences.
+Monitoring at the application level can identify bottlenecks and other slow points within your site that may be causing you to lose customers. Monitoring will give us the extra information about how your site performs needed to allow us to gradually improve that performance, which can increase your search ranking and conversion rates.
+
+Regardless of whether you choose application level monitoring as an option, we will monitor your site for outages and fix them as soon as posible when they are reported.
 
 <a name="backups"></a>
 <img src="/database.png" class="howitworksicon">
@@ -62,14 +66,18 @@ Adding monitoring to your site will give extra information about how your site p
 
 Many sites are deployed with no backup schedule in place. This is generally not a problem until something bad happens, from a new content editor accidentally deleting all your content through to hardware failures on your host.
 
-Backups are insurance against disasters. You hope you never need them, but in the event you do need them, you will regret not having a solid backup strategy in place.
+Backups are insurance against disasters. You hope you never need them, but in the event you do need them, you will regret not having a solid backup and disaster recovery strategy in place.
+
+If you do not have a backup and recovery strategy on your current host, we can arrange to set one up for you. If you choose to move to our partner host Anchor, we can set up a backup strategy as part of your hosting plan.
 
 <a name="marketing"></a>
 <img src="/marketing.png" class="howitworksicon">
 
-<h2 class="howitworkstitle">Digital marketing</h2>
+<h2 class="howitworkstitle">Digital marketing & analytics</h2>
 
-Need more visitors? Need higher visibility? Want a higher conversion rate on your existing visitors? We can tailor a digital marketing strategy for your Drupal site.
+Do you need more visitors or to raise your site's profile? We can tailor a digital marketing strategy for your Drupal site that will raise your site's visibility through a combination of social media campaigns and paid advertising.
+
+To improve conversion of existing visitors we can help you take your existing analytics data from either Google or Adobe sources and use this data to understand what your visitors are really doing on your site. We then use that understanding to improve the user's experience on your site. If you do not already have analytics set up on your site, we can help you with that too.
 
 <a name="billing"></a>
 
