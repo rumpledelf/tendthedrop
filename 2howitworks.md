@@ -40,7 +40,7 @@ The additional services we offer are listed below:
 <a name="hosting"></a>
 <img src="/hosting.png" class="howitworksicon">
 
-<h2 class="howitworkstitle">Hosting</h2>
+<h2 class="howitworkstitle">24/7 Support</h2>
 
 Drupal sites can consume large amounts of hosting resources, which can cause performance issues on hosting infrastructure that is not a good match for the resource needs of your site.
 
