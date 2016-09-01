@@ -4,15 +4,6 @@ title: How it works
 permalink: /howitworks/
 ---
 
-<ul class="menu">
-	<li><a href="#start">Getting started</a></li>
-	<li><a href="#hosting">Hosting</a></li>
-	<li><a href="#monitoring">Monitoring</a></li>
-	<li><a href="#backups">Backups</a></li>
-	<li><a href="#marketing">Marketing</a></li>
-	<li><a href="#billing">Billing</a></li>
-</ul>
-
 {{site.title}} offers an ongoing Drupal site maintenance service, complemented by optional site improvement services. Our service is best suited to large, complex Drupal sites where there are not enough in-house resources available to effectively perform maintenance. We are not a one-size-fits-all service, and we can organise a plan that suits your needs.
 
 <div class="ctawrapper"><a class="ctabutton" href="/contact">Contact us for a quote</a></div>
@@ -20,73 +11,58 @@ permalink: /howitworks/
 
 <a name="start"></a>
 
-<h2 class="howitworkstitle">Getting started</h2>
+<h2 class="howitworkstitle">The process</h2>
 
-The first step will be for us to have a look at your Drupal site and evaluate its current status. The results of this initial site assessment will effect the steps we take to get set up. In general, the steps we will take are:
+The first step will be for us to have a look at your Drupal site and evaluate its current status. The results of this initial site evaluation will affect the steps we take to get set up. There is a minimum site evaluation fee, and then an additional charge may be incurred if your site needs a lot of set-up work. The length of time it takes for the set-up phase depends on many things, including some that are not in our control such as obtaining access to your site's source code, hosting or domain information from third parties.
+
+In general, the steps we will take are:
 
 <ol>
-	<li>Initial site assessment</li>
-	<li>Move your code into version control if it is not already</li>
-	<li>Set up an issue tracking system for you, or utilise your existing system</li>
-	<li>Issues flagged in the initial site assessment will be added into the issue queue</li>
-	<li>Move your site to a new host if required</li>
-	<li>Set up additional services as required</li>
-	<li>Apply any security updates flagged by the initial site assessment as a priority</li>
-	<li>Move on with maintaining your site!</li>
+	<li><h4>Initial site evaluation</h4>
+
+		We take an in-depth look at your site to check its current status. We look at things like what version of Drupal you are running; how your site is configured; any external services you are using; and are there any custom modules or modified Drupal code. If you are using Google Analytics, we can look at your traffic levels and make recommendations on caching and hosting. At the end of this stage we will know how much extra work it will be to set your site up for maintainence.
+
+	</li>
+	<li><h4>Move your code into version control if it is not already</h4>
+
+		While most sites are using a version control system like Git, not all are. If you are already using version control, at this point we set up access to your repository. If your repository is held by another development company that you no longer wish to work with, we will work with you to transfer the ownership.
+
+	</li>
+	<li><h4>Set up an issue tracking system for you, or utilise your existing system</h4>
+
+		If you do not have any kind of formal issue tracking system such as Jira or issue tracking attached to your version control system, we will set one up for you. Otherwise this is a similar process to setting up access or transferring ownership of your code repository, and often access to both repository and issue tracking occur together.
+
+		If you were not previously using an issue tracker, at this point you should enter any outstanding issues that you are tracking by other means (e.g. through an email chain, on a whiteboard or in a spreadsheet) into your new issue tracking system.
+
+	</li>
+	<li><h4>Issues flagged in the initial site assessment will be added into the issue queue</h4>
+
+		Anything actionable that was found in the initial assessment will be added to the issue queue. These may include items such as outstanding Drupal security patches, performance issues, or obvious bugs.
+
+	</li>
+	<li><h4>Move your site to a new host if required</h4>
+
+		<p>If you are not happy with your current hosting plan, we can help you move to a new host. We recommend <a href="http://anchor.com.au">Anchor Systems</a>, but you are free to choose any host that meets your requirements.</p>
+
+		<p>If you are not changing host and you do not have a staging server, this is the point we will work with you to set up a staging server. It is strongly recommended that you do not make changes directly to your production website, and a staging server allows you to review any changes before they go live. There may be an additional cost incurred by your host for this.</p>
+
+	</li>
+	<li><h4>Apply any security updates and other critical issues flagged by the initial site assessment as a priority</h4>
+
+		Before we do anything else, we deal with the important stuff! These will be tested on your staging site first, to make sure there is no loss of functionality on your production site.
+
+	</li>
+	<li><h4>Set up additional services as required</h4>
+
+		If you have indicated that you want additional services such as a digital marketing strategy, we start organising these once the more pressing issues are dealt with.
+
+	</li>
+
+	<li><h4>Move on with maintaining your site!</h4>
+
+		Once your site is set up to be maintained, just make sure you indicate which issues are your priority. You can follow the status of any tickets through your issue tracking system.
+
+	</li>
 </ol>
-
-The additional services we offer are listed below:
-
-<a name="hosting"></a>
-<img src="/hosting.png" class="howitworksicon">
-
-<h2 class="howitworkstitle">24/7 Support</h2>
-
-Drupal sites can consume large amounts of hosting resources, which can cause performance issues on hosting infrastructure that is not a good match for the resource needs of your site.
-
-We can evaluate your current hosting situation and if required, we can arrange for your site to be moved to reliable, managed hosting at our partner host, <a href="http://www.anchor.com.au">Anchor Systems</a>. Founded in 2000, Anchor is a global provider of managed hosting services for business critical websites and web applications.
-
-Anchor specialises in creating innovative and scalable hosting solutions for their customers, bringing deep DevOps & Systems Administration expertise that is unique in the hosting industry. With AWS management and OpenStack cloud infrastructure spanning three data centres in Australia and the USA, they can build a solution to meet your needs.
-
-<a name="monitoring"></a>
-<img src="/monitoring.png" class="howitworksicon">
-
-<h2 class="howitworkstitle">Monitoring</h2>
-
-Drupal sites can sometimes run slowly, especially if there is increase in visitors. Sometimes they can have intermittent downtime that is not caused by your host and will not be covered in their uptime guarantee.
-
-Monitoring at the application level can identify bottlenecks and other slow points within your site that may be causing you to lose customers. Monitoring will give us the extra information about how your site performs needed to allow us to gradually improve that performance, which can increase your search ranking and conversion rates.
-
-Regardless of whether you choose application level monitoring as an option, we will monitor your site for outages and fix them as soon as posible when they are reported.
-
-<a name="backups"></a>
-<img src="/database.png" class="howitworksicon">
-
-<h2 class="howitworkstitle">Backups</h2>
-
-Many sites are deployed with no backup schedule in place. This is generally not a problem until something bad happens, from a new content editor accidentally deleting all your content through to hardware failures on your host.
-
-Backups are insurance against disasters. You hope you never need them, but in the event you do need them, you will regret not having a solid backup and disaster recovery strategy in place.
-
-If you do not have a backup and recovery strategy on your current host, we can arrange to set one up for you. If you choose to move to our partner host Anchor, we can set up a backup strategy as part of your hosting plan.
-
-<a name="marketing"></a>
-<img src="/marketing.png" class="howitworksicon">
-
-<h2 class="howitworkstitle">Digital marketing & analytics</h2>
-
-Do you need more visitors or to raise your site's profile? We can tailor a digital marketing strategy for your Drupal site that will raise your site's visibility through a combination of social media campaigns and paid advertising.
-
-To improve conversion of existing visitors we can help you take your existing analytics data from either Google or Adobe sources and use this data to understand what your visitors are really doing on your site. We then use that understanding to improve the user's experience on your site. If you do not already have analytics set up on your site, we can help you with that too.
-
-<a name="billing"></a>
-
-<h2 class="howitworkstitle">Billing</h2>
-
-As this is a new service, we are currently only offering payment intervals of quarterly, six monthly and annually, invoiced and paid in advance. Depending on the demand, we may offer automatic monthly payments in the future.
-
-There will be an up-front cost for the site evaluation and initial setup that will vary depending on how many additional services you choose over and above the basic maintenance package.
-
-Please <a href="/contact">contact us</a> so we can tailor a plan that is right for you.
 
 <div class="ctawrapper"><a class="ctabutton" href="/contact">Contact us</a></div>

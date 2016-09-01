@@ -50,7 +50,9 @@ $on-laptop:        800px;
     }
 }
 
-
+li{
+  margin: 10px 0;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

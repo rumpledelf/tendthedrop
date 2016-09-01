@@ -293,11 +293,10 @@
 
 .howitworksicon{
   float: left;
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: auto;
+  margin-right: 20px;
   @include media-query($on-mobile) {
-    width: 120px;
-    height: auto;
     float: none;
     display: block;
     margin: 0 auto;
@@ -313,8 +312,8 @@
 
 .spaced{
   li{
-    margin-top: $spacing-unit/4;
-    margin-bottom: $spacing-unit/4;
+    margin-top: $spacing-unit/3;
+    margin-bottom: $spacing-unit/3;
   }
 }
 .narrow{
@@ -326,7 +325,7 @@
   }
 }
 
-.quarter{
+.quarter, .third{
   padding: 0;
   margin-left: 0;
   margin-top: $spacing-unit;
@@ -347,6 +346,11 @@
     h3{
       text-align: center;
     }
+  }
+}
+.third{
+  li{
+    width: 31%;
   }
 }
 .frontbanner{
