@@ -6,7 +6,7 @@ permalink: /contact/
 
 If you'd like to get a quote to maintain a Drupal site, or just have some more questions, please don't hesitate to get in touch via this form.
 
-<form action="//formspree.io/info@tendthedrop.com" method="POST">
+<form action="//formspree.io/robyn@armadillosandwich.com" method="POST">
     <label>Your name</label>
     <input type="text" name="name">
     <label>Your email address</label>
